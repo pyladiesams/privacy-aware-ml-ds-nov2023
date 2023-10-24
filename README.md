@@ -1,9 +1,9 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# Privacy-Aware Machine Learning and Data Science
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+We'll learn how to apply core privacy principles and techniques to the data science and machine learning workflows. We'll also look at how to experiment with Python open-source libraries to ensure privacy-preservation in machine learning. 
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
